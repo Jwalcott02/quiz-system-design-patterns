@@ -1,6 +1,9 @@
-# quiz-system-design-patterns
-Simple Quiz System implementing Singleton, Adapter, and Strategy Design Patterns.
 # Quiz System - Design Patterns Project
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Simple Quiz System implementing Singleton, Adapter, and Strategy Design Patterns.
+
 
 This project is a simple Quiz System built using three major design patterns:
 
