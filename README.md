@@ -18,3 +18,11 @@ Make sure you have Python 3 installed.
 
 ```bash
 python main.py
+
+
+
+
+---
+
+# 📄 Final Structure of Repo:
+
